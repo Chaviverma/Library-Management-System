@@ -23,7 +23,7 @@ Dictionary Data Structure for storing book records
 🚀 How to Run
 
 Clone the repository:
-git clone https://github.com/Chaviverma/library-management-system.git
+git clone https://github.com/Chaviverma/library-management-system
 cd library-management-system
 
 
